@@ -45,3 +45,4 @@ This is source code, not a prebuilt APK. I have not run an Android/Gradle build 
 - App launcher icon uses the supplied purple/black “QBAO × SADZ TWEAK MENU” artwork.
 - GitHub Actions workflow: `.github/workflows/android.yml`. Upload the ZIP contents to the repository root, then open **Actions** and run **Build Android APK**. The generated APK is available as an artifact.
 - This is a UI prototype; switches do not change game memory, aim, recoil, or game files.
+# Newbie
